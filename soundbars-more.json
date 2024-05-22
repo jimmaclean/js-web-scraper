@@ -1,0 +1,534 @@
+[
+  {
+    "name": "JBL Bar 2.0 All-in-One MK2 (Black)",
+    "url": "https://www.richersounds.com/jbl-bar-2-0-all-in-one-mk2-black.html",
+    "price": "£99",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/421185_354b.jpg",
+    "brand": "JBL"
+  },
+  {
+    "name": "Panasonic SCHTB258 (Black)",
+    "url": "https://www.richersounds.com/panasonic-schtb258-black.html",
+    "price": "£149",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/416256_2_rev_b26c.jpg",
+    "brand": "Panasonic"
+  },
+  {
+    "name": "Polk Audio Signa S2 (Black)",
+    "url": "https://www.richersounds.com/polk-signa-s2.html",
+    "price": "£179",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/0/404488_v2_80f7.jpg",
+    "brand": "Polk"
+  },
+  {
+    "name": "Hisense AX5100G",
+    "url": "https://www.richersounds.com/hisense-ax5100g-black.html",
+    "price": "£199",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417543_4_17ee.jpg",
+    "brand": "Hisense"
+  },
+  {
+    "name": "Polk Audio React (Black)",
+    "url": "https://www.richersounds.com/polk-audio-react-black.html",
+    "price": "£119",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417743_1_flipped_24ca.jpeg",
+    "brand": "Polk"
+  },
+  {
+    "name": "Philips TAB6305",
+    "url": "https://www.richersounds.com/philips-tab6305.html",
+    "price": "£149",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/419641_2_cab6.jpg",
+    "brand": "Philips"
+  },
+  {
+    "name": "JBL BAR 300 (Black)",
+    "url": "https://www.richersounds.com/jbl-bar-300-black.html",
+    "price": "£249",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/421186_e9e4.jpg",
+    "brand": "JBL"
+  },
+  {
+    "name": "Sonos Ray (Black)",
+    "url": "https://www.richersounds.com/sonos-ray-black.html",
+    "price": "£249",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/414296_3_aaf7.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Samsung HW-B550 (Dark Grey)",
+    "url": "https://www.richersounds.com/samsung-hw-b550-dark-grey.html",
+    "price": "£249",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/413830_6bfa.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "LG SPQ8-S (Dark Silver Steel)",
+    "url": "https://www.richersounds.com/lg-spq8-s-dark-silver-steel.html",
+    "price": "£249",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417556_3_4412.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Sonos Ray (White)",
+    "url": "https://www.richersounds.com/sonos-ray-white.html",
+    "price": "£249",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/414297_3_219e.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Samsung HW-Q600C (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q600c-black.html",
+    "price": "£249",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417597_038c.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Sonos Ray (White)",
+    "url": "https://www.richersounds.com/sonos-ray-white.html",
+    "price": "£249",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/414297_3_219e.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Samsung HW-Q600C (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q600c-black.html",
+    "price": "£249",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417597_038c.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Sony BRAVIA Theatre U (Black)",
+    "url": "https://www.richersounds.com/sony-theatre-u-ht-an7-black.html",
+    "price": "£269",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/421353_0750.jpg",
+    "brand": "Sony"
+  },
+  {
+    "name": "Denon DHT-S517 (Black)",
+    "url": "https://www.richersounds.com/denon-dht-s517-black.html",
+    "price": "£299",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/413169_9290.jpg",
+    "brand": "Denon"
+  },
+  {
+    "name": "LG SQC4R",
+    "url": "https://www.richersounds.com/lg-sqc4r.html",
+    "price": "£299",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/419140_603e.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Sony HT-S2000",
+    "url": "https://www.richersounds.com/sony-ht-s2000.html",
+    "price": "£299",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/418602_027f.jpg",
+    "brand": "Sony"
+  },
+  {
+    "name": "LG S60Q",
+    "url": "https://www.richersounds.com/lg-s60q.html",
+    "price": "£299",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/419942_ea90.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "LG US60T",
+    "url": "https://www.richersounds.com/lg-us60t.html",
+    "price": "£299",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/421228_7b7e.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "LOEWE klang bar i (Basalt Grey)",
+    "url": "https://www.richersounds.com/loewe-klang-bar-i-basalt-grey.html",
+    "price": "£299",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420241_3974.jpg",
+    "brand": "Loewe"
+  },
+  {
+    "name": "Panasonic SC-HTB600 (Black)",
+    "url": "https://www.richersounds.com/panasonic-sc-htb600-black.html",
+    "price": "£349",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/419056_v2_27e0.jpg",
+    "brand": "Panasonic"
+  },
+  {
+    "name": "Philips TAB8507B",
+    "url": "https://www.richersounds.com/philips-tab8507b.html",
+    "price": "£349",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417255_384e.jpg",
+    "brand": "Philips"
+  },
+  {
+    "name": "Samsung HW-B650D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-b650d-black.html",
+    "price": "£379",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420667_2ce0.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-S60B (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-s60b-black.html",
+    "price": "£399",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/413826_db64.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-S61B (White)",
+    "url": "https://www.richersounds.com/samsung-hw-s61b-white.html",
+    "price": "£399",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/413827_2a8f.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "LG Series 6 Bar",
+    "url": "https://www.richersounds.com/lg-s65q.html",
+    "price": "£399",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420172_fd93.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Sonos Beam Gen 2 (White)",
+    "url": "https://www.richersounds.com/sonos-beam-gen-2-white.html",
+    "price": "£449",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/412080_3_95a2.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Sonos Beam Gen 2 (Black)",
+    "url": "https://www.richersounds.com/sonos-beam-gen-2-black.html",
+    "price": "£449",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/412079_3_3174.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Sony HT-A3000",
+    "url": "https://www.richersounds.com/sony-ht-a3000.html",
+    "price": "£449",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/416258_a0b2.jpg",
+    "brand": "Sony"
+  },
+  {
+    "name": "Samsung HW-S61D (White)",
+    "url": "https://www.richersounds.com/samsung-hw-s61d-white.html",
+    "price": "£449",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420665_bbdc.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-S60D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-s60d-black.html",
+    "price": "£449",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420666_463a.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Denon Home Sound Bar 550 (Black)",
+    "url": "https://www.richersounds.com/denon-home-sound-bar-550-black.html",
+    "price": "£499",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/410485_2_1187.jpg",
+    "brand": "Denon"
+  },
+  {
+    "name": "LG USE6S",
+    "url": "https://www.richersounds.com/lg-use6s.html",
+    "price": "£499",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417149_3_f20c.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Samsung HW-Q6 Series",
+    "url": "https://www.richersounds.com/samsung-hw-q6-series.html",
+    "price": "£499",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/419805_3966.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-Q800C (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q800c-black.html",
+    "price": "£499",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417595_db6a.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-S701D (White)",
+    "url": "https://www.richersounds.com/samsung-hw-s701d-white.html",
+    "price": "£599",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420663_1523.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-S700D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-s700d-black.html",
+    "price": "£599",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420664_0970.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "LG S75Q",
+    "url": "https://www.richersounds.com/lg-s75q.html",
+    "price": "£599",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417148_7477.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Samsung HW-S801B (White)",
+    "url": "https://www.richersounds.com/samsung-hw-s801b-white.html",
+    "price": "£599",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/413829_540c.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Monitor Audio SB2 (Black)",
+    "url": "https://www.richersounds.com/monitor-audio-sb2-black.html",
+    "price": "£599",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/3/1/314346_v2_f16f.jpg",
+    "brand": "Monitor Audio"
+  },
+  {
+    "name": "Sennheiser AMBEO Soundbar Mini",
+    "url": "https://www.richersounds.com/sennheiser-ambeo-soundbar-mini.html",
+    "price": "£599",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/418556_9b5c.jpg",
+    "brand": "Sennheiser"
+  },
+  {
+    "name": "Biamp Parle SBC 2",
+    "url": "https://www.richersounds.com/biamp-parle-sbc-2.html",
+    "price": "£659",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/416459_ffc3.jpg",
+    "brand": "Biamp"
+  },
+  {
+    "name": "Sony HT-A5000",
+    "url": "https://www.richersounds.com/sony-ht-a5000.html",
+    "price": "£699",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/416257_eaf3.jpg",
+    "brand": "Sony"
+  },
+  {
+    "name": "Monitor Audio SB3 (Black)",
+    "url": "https://www.richersounds.com/monitor-audio-sb3-black.html",
+    "price": "£719",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/3/1/314347_f2df.jpg",
+    "brand": "Monitor Audio"
+  },
+  {
+    "name": "Samsung HW-S801D (White)",
+    "url": "https://www.richersounds.com/samsung-hw-s801d-white.html",
+    "price": "£749",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420661_2939.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-Q700D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q700d-black.html",
+    "price": "£749",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420659_893b.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-S800D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-s800d-black.html",
+    "price": "£749",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420662_f8b6.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Sonos Arc (White)",
+    "url": "https://www.richersounds.com/sonos-arc-white.html",
+    "price": "£769",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/0/408362_3932.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Sonos Arc (Black)",
+    "url": "https://www.richersounds.com/sonos-arc-black.html",
+    "price": "£769",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/0/408361_5971.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Philips Fidelio FB1 (Black)",
+    "url": "https://www.richersounds.com/philips-fidelio-fb1-black.html",
+    "price": "£799",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/416626_7755.jpg",
+    "brand": "Philips"
+  },
+  {
+    "name": "LG USC9S",
+    "url": "https://www.richersounds.com/lg-usc9s.html",
+    "price": "£799",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417147_7_f073.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Yamaha SR-X50A (Carbon Grey)",
+    "url": "https://www.richersounds.com/yamaha-sr-x50a-carbon-grey.html",
+    "price": "£799",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/418818_6b6c.jpg",
+    "brand": "Yamaha"
+  },
+  {
+    "name": "LG Sound Bar G1 (Black)",
+    "url": "https://www.richersounds.com/lg-sound-bar-g1-black.html",
+    "price": "£799",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/411880_b3cd.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Samsung HW-Q930C (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q930c-black.html",
+    "price": "£799",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417593_9400.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Monitor Audio SB4 Black",
+    "url": "https://www.richersounds.com/monitor-audio-sb4-black.html",
+    "price": "£845",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/0/400774_d72b.jpg",
+    "brand": "Monitor Audio"
+  },
+  {
+    "name": "Samsung HW-Q800D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q800d-black.html",
+    "price": "£849",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420658_890d.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung HW-Q990C (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q990c-black.html",
+    "price": "£899",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/417591_34df.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Samsung The Terrace HW-LST70T (Black)",
+    "url": "https://www.richersounds.com/samsung-the-terrace-hw-lst70t-black.html",
+    "price": "£999",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/410868_1df2.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "Sennheiser AMBEO Soundbar Plus",
+    "url": "https://www.richersounds.com/sennheiser-ambeo-plus-black.html",
+    "price": "£999",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/415961_3_f588.jpg",
+    "brand": "Sennheiser"
+  },
+  {
+    "name": "Sennheiser AMBEO Soundbar Plus",
+    "url": "https://www.richersounds.com/sennheiser-ambeo-plus-black.html",
+    "price": "£999",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/415961_3_f588.jpg",
+    "brand": "Sennheiser"
+  },
+  {
+    "name": "LG Sound Bar GX (Black)",
+    "url": "https://www.richersounds.com/lg-sound-bar-gx-black.html",
+    "price": "£999",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/0/408902_v2_b503.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Samsung The Terrace HW-LST70T (Black)",
+    "url": "https://www.richersounds.com/samsung-the-terrace-hw-lst70t-black.html",
+    "price": "£999",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/410868_1df2.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "LOEWE klang bar3 mr (Basalt Grey)",
+    "url": "https://www.richersounds.com/loewe-klang-bar3-mr-basalt-grey.html",
+    "price": "£999",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420230_cab4.jpg",
+    "brand": "Loewe"
+  },
+  {
+    "name": "Samsung HW-Q930D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q930d-black.html",
+    "price": "£1,149",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420657_f56e.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "LG US90TY",
+    "url": "https://www.richersounds.com/lg-us90ty.html",
+    "price": "£1,199",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/421229_9f6e.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Sonos Beam Gen 2 with Sub Mini & Era 100 Pair (Black)",
+    "url": "https://www.richersounds.com/sonos-beam-gen-2-with-sub-mini-era-100-pair-black.html",
+    "price": "£1,279",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/P/A/PAH019141_dcc3.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Sonos Beam Gen 2 with Sub Mini & Era 100 Pair (White)",
+    "url": "https://www.richersounds.com/sonos-beam-gen-2-with-sub-mini-era-100-pair-white.html",
+    "price": "£1,279",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/P/A/PAH019143_61e0.jpg",
+    "brand": "Sonos"
+  },
+  {
+    "name": "Sony BRAVIA Theatre Bar 9 (Black)",
+    "url": "https://www.richersounds.com/sony-ht-a9000-black.html",
+    "price": "£1,399",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/421341_0b1c.jpg",
+    "brand": "Sony"
+  },
+  {
+    "name": "Sony HT-A9",
+    "url": "https://www.richersounds.com/sony-ht-a9.html",
+    "price": "£1,499",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/1/411815_fdd0.jpg",
+    "brand": "Sony"
+  },
+  {
+    "name": "LG US95TR",
+    "url": "https://www.richersounds.com/lg-us95tr.html",
+    "price": "£1,699",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/421225_2_1ab1.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Samsung HW-Q990D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q990d-black.html",
+    "price": "£1,699",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420656_a10d.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "LG US95TR",
+    "url": "https://www.richersounds.com/lg-us95tr.html",
+    "price": "£1,699",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/421225_2_1ab1.jpg",
+    "brand": "LG"
+  },
+  {
+    "name": "Samsung HW-Q990D (Black)",
+    "url": "https://www.richersounds.com/samsung-hw-q990d-black.html",
+    "price": "£1,699",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420656_a10d.jpg",
+    "brand": "Samsung"
+  },
+  {
+    "name": "LOEWE klang bar5 mr and sub5 (Basalt Grey)",
+    "url": "https://www.richersounds.com/loewe-klang-bar5-mr-and-sub5-basalt-grey.html",
+    "price": "£1,759",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/2/420232_84b1.jpg",
+    "brand": "Loewe"
+  },
+  {
+    "name": "Sennheiser AMBEO Max (Black)",
+    "url": "https://www.richersounds.com/sennheiser-ambeo-max.html",
+    "price": "£2,199",
+    "thumbnail": "https://www.richersounds.com/media/catalog/product/cache/d3a84b3532a01f3094978bcc785c1b9c/4/0/406103_2_b6fa.jpg",
+    "brand": "Sennheiser"
+  }
+]
